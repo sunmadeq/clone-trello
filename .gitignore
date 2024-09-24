@@ -1,0 +1,26 @@
+# Modules
+
+node_modules
+
+# Local folders
+
+.next
+.idea
+
+# Local files
+
+.env*.local
+.env
+
+# Production
+
+build
+
+# Debug
+
+pnpm-debug.log*
+
+# Typescript
+
+*.tsbuildinfo
+next-env.d.ts

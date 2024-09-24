@@ -1,0 +1,11 @@
+# Modules
+
+node_modules
+
+# Local golders
+
+.next
+
+# Local files
+
+pnpm-lock.yaml
